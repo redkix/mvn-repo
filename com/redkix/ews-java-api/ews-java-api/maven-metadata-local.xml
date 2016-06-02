@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
-  <groupId>com.redkix.ews-java-api</groupId>
+  <groupId>com.microsoft.ews-java-api</groupId>
   <artifactId>ews-java-api</artifactId>
   <versioning>
     <versions>
       <version>2.1-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20160126140830</lastUpdated>
+    <lastUpdated>20160602145902</lastUpdated>
   </versioning>
 </metadata>
